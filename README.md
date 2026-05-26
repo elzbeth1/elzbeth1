@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Elzabeth+Thomas+%F0%9F%91%8B;Machine+Learning+Engineer;Data+Scientist+%7C+Python+%C2%B7+PyTorch+%C2%B7+XGBoost;Turning+Data+into+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Elzabeth+Thomas+%F0%9F%91%8B;Data+Scientist;Machine+Learning+Engineer;Turning+Data+into+Decisions" alt="Typing SVG" />
 
 <br/>
 
@@ -70,16 +70,10 @@ I build end-to-end ML systems — from raw data to deployed, real-time inference
 
 ## 💼 Experience & Education
 
-## 💼 Experience & Education
-
 ```
 🏢  Systems Engineer            Infosys Ltd              Jan 2020 – Aug 2022
     → Python pipelines, data quality & MDM for a Fortune 500 retail client
     → Improved workflow reusability by 44.4%
-
-🏢  Customer Experience Advisor  EE Ltd, UK              Sep 2024 – Oct 2025
-    → Data-driven root cause analysis on customer service KPIs
-    → Segment-level trend reporting informing process improvements
 
 🎓  M.S. Data Science           Northumbria University   2024 · Grade: 2:1
     → ML, Advanced DBs, Big Data, Statistical Programming (R)
