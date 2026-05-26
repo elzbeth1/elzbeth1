@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Elzabeth+Thomas+%F0%9F%91%8B;Machine+Learning+Engineer;Data+Scientist+%7C+AI+Builder;Turning+Data+into+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Elzabeth+Thomas+%F0%9F%91%8B;Machine+Learning+Engineer;Data+Scientist+%7C+Python+%C2%B7+PyTorch+%C2%B7+XGBoost;Turning+Data+into+Decisions" alt="Typing SVG" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Machine Learning Engineer & Data Scientist** with an M.S. in Data Science (Northumbria University, UK 🇬🇧) and 2.5+ years of production data experience at **Infosys** and **EE Ltd**.
+I'm a **Machine Learning Engineer & Data Scientist** with an M.S. in Data Science (Northumbria University, UK 🇬🇧) and 2.5+ years of hands-on experience working with production-scale data at **Infosys**.
 
 I build end-to-end ML systems — from raw data to deployed, real-time inference applications. My work spans predictive modelling, deep learning pipelines, business analytics, and A/B testing. I care deeply about making models that **actually work in the real world**, not just on paper.
 
@@ -29,13 +29,13 @@ I build end-to-end ML systems — from raw data to deployed, real-time inference
 
 > Full details, code, and results in the pinned repos below ↓
 
-🏥 **Insurance Premium Prediction** — R² 0.98, cut prediction errors by **97%** via domain-specific feature engineering · *XGBoost · Streamlit*
+🏥 **Insurance Premium Prediction** — R² 0.98, cut prediction errors by **97%** via domain-specific feature engineering · *XGBoost · Streamlit* · [View Repo →](https://github.com/elzbeth1/ML_Project_Premium_Prediction)
 
-🚗 **Car Damage Classifier** — **82%+ accuracy**, ResNet + EfficientNet with live FastAPI + Streamlit inference · *PyTorch · Transfer Learning · Optuna*
+🚗 **Car Damage Classifier** — **82%+ accuracy**, ResNet + EfficientNet with live FastAPI + Streamlit inference · *PyTorch · Transfer Learning · Optuna* · [View Repo →](https://github.com/elzbeth1/DL-Car-Damage-Detection)
 
-💳 **Credit Risk Model** — Recall **0.94**, optimised to minimise missed loan defaults · *XGBoost · Scikit-learn · Streamlit*
+💳 **Credit Risk Model** — Recall **0.94**, optimised to minimise missed loan defaults · *XGBoost · Scikit-learn · Streamlit* · [View Repo →](https://github.com/elzbeth1/ML-Project-Credit-Risk-Score)
 
-📊 **Credit Card Launch & A/B Testing** — Statistically validated **significant spending uplift** across target customer segments · *Hypothesis Testing · EDA · Segmentation*
+📊 **Credit Card Launch & A/B Testing** — Statistically validated **significant spending uplift** across target customer segments · *Hypothesis Testing · EDA · Segmentation* · [View Repo →](https://github.com/elzbeth1/Credit_Card_Launch_Analysis)
 
 ---
 
@@ -67,6 +67,8 @@ I build end-to-end ML systems — from raw data to deployed, real-time inference
 </div>
 
 ---
+
+## 💼 Experience & Education
 
 ## 💼 Experience & Education
 
