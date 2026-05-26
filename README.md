@@ -24,8 +24,6 @@ I build end-to-end ML systems from raw data to deployed, real-time inference app
 
 ## 🚀 Projects
 
-> 💼 Open to ML / Data Scientist roles — [elzabeththomas10@gmail.com](mailto:elzabeththomas10@gmail.com)
-
 🏥 **Insurance Premium Prediction** — R² 0.98, cut prediction errors by **97%** via domain-specific feature engineering · *XGBoost · Streamlit* · [View Repo →](https://github.com/elzbeth1/ML_Project_Premium_Prediction)
 
 🚗 **Car Damage Classifier** — **82%+ accuracy**, ResNet + EfficientNet with live FastAPI + Streamlit inference · *PyTorch · Transfer Learning · Optuna* · [View Repo →](https://github.com/elzbeth1/DL-Car-Damage-Detection)
