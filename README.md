@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Elzabeth+Thomas+%F0%9F%91%8B;Machine+Learning+Engineer;Data+Scientist;Turning+Data+into+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Elzabeth+Thomas+%F0%9F%91%8B;Machine+Learning+Engineer;Data+Scientist+%7C+Python+%C2%B7+PyTorch+%C2%B7+XGBoost;Turning+Data+into+Decisions" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elzabeththomas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elzabeththomas)
 [![Email](https://img.shields.io/badge/Email-elzabeththomas10@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elzabeththomas10@gmail.com)
-[![Open to Work](https://img.shields.io/badge/✅_Open_to_ML%2FDS_Roles-brightgreen?style=for-the-badge)](mailto:elzabeththomas10@gmail.com)
 
 </div>
 
@@ -19,12 +18,13 @@ I'm a **Machine Learning Engineer & Data Scientist** with an M.S. in Data Scienc
 I build end-to-end ML systems — from raw data to deployed, real-time inference applications. My work spans predictive modelling, deep learning pipelines, business analytics, and A/B testing. I care deeply about making models that **actually work in the real world**, not just on paper.
 
 - 🔭 Building ML projects across healthcare, finance & computer vision
-- 🎓 M.S. Data Science — Northumbria University, Newcastle (Grade: 2:1)
 - 🌱 Deepening expertise in MLOps, model monitoring & production-grade pipelines
 
 ---
 
 ## 🚀 Projects
+
+> 💼 Open to ML / Data Scientist roles — [elzabeththomas10@gmail.com](mailto:elzabeththomas10@gmail.com)
 
 🏥 **Insurance Premium Prediction** — R² 0.98, cut prediction errors by **97%** via domain-specific feature engineering · *XGBoost · Streamlit* · [View Repo →](https://github.com/elzbeth1/ML_Project_Premium_Prediction)
 
@@ -68,16 +68,12 @@ I build end-to-end ML systems — from raw data to deployed, real-time inference
 ## 💼 Experience & Education
 
 ```
-🏢  Systems Engineer            Infosys Ltd              Jan 2020 – Aug 2022
+🏢  Systems Engineer        Infosys Ltd              Jan 2020 – Aug 2022
     → Python pipelines, data quality & MDM for a Fortune 500 retail client
     → Improved workflow reusability by 44.4%
 
-🏢  Customer Experience Advisor  EE Ltd, UK              Sep 2024 – Oct 2025
-    → Data-driven root cause analysis on customer service KPIs
-    → Segment-level trend reporting informing process improvements
-
-🎓  M.S. Data Science           Northumbria University   2024 · Grade: 2:1
+🎓  M.S. Data Science       Northumbria University   2024 · Grade: 2:1
     → ML, Advanced DBs, Big Data, Statistical Programming (R)
 
-🎓  B.Tech Computer Science     APJ Abdul Kalam Univ.    Grade: 7.3/10
+🎓  B.Tech Computer Science  APJ Abdul Kalam Univ.   Grade: 7.3/10
 ```
