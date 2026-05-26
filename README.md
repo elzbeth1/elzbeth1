@@ -75,6 +75,10 @@ I build end-to-end ML systems — from raw data to deployed, real-time inference
     → Python pipelines, data quality & MDM for a Fortune 500 retail client
     → Improved workflow reusability by 44.4%
 
+🏢  Customer Experience Advisor  EE Ltd, UK              Sep 2024 – Oct 2025
+    → Data-driven root cause analysis on customer service KPIs
+    → Segment-level trend reporting informing process improvements
+
 🎓  M.S. Data Science           Northumbria University   2024 · Grade: 2:1
     → ML, Advanced DBs, Big Data, Statistical Programming (R)
 
