@@ -82,3 +82,15 @@ I build end-to-end ML systems from raw data to deployed, real-time inference app
 
 🎓  B.Tech Computer Science     APJ Abdul Kalam Univ.    Grade: 7.3/10
 ```
+
+---
+
+<div align="center">
+
+### 🚀 Open to Opportunities in Machine Learning • Data Science • Applied AI
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+Practical+ML+Systems;Applied+AI+%7C+Analytics+%7C+Deployment;Turning+Data+into+Decisions" />
+
+</div>
