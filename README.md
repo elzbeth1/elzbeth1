@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Elzabeth+Thomas+%F0%9F%91%8B;Data+Scientist;Machine+Learning+Engineer;Turning+Data+into+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Elzabeth+Thomas+%F0%9F%91%8B;Machine+Learning+Engineer;Data+Scientist+%7C+Python+%C2%B7+PyTorch+%C2%B7+XGBoost;Turning+Data+into+Decisions" alt="Typing SVG" />
 
 <br/>
 
@@ -21,13 +21,10 @@ I build end-to-end ML systems — from raw data to deployed, real-time inference
 - 🔭 Building ML projects across healthcare, finance & computer vision
 - 🎓 M.S. Data Science — Northumbria University, Newcastle (Grade: 2:1)
 - 🌱 Deepening expertise in MLOps, model monitoring & production-grade pipelines
-- 📬 **elzabeththomas10@gmail.com**
 
 ---
 
-## 🚀 Projects at a Glance
-
-> Full details, code, and results in the pinned repos below ↓
+## 🚀 Projects
 
 🏥 **Insurance Premium Prediction** — R² 0.98, cut prediction errors by **97%** via domain-specific feature engineering · *XGBoost · Streamlit* · [View Repo →](https://github.com/elzbeth1/ML_Project_Premium_Prediction)
 
@@ -84,21 +81,3 @@ I build end-to-end ML systems — from raw data to deployed, real-time inference
 
 🎓  B.Tech Computer Science     APJ Abdul Kalam Univ.    Grade: 7.3/10
 ```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-Actively looking for **ML Engineer / Data Scientist** roles.
-If you're building something interesting — let's talk.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elzabeththomas)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elzabeththomas10@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=elzbeth1&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
